@@ -1,0 +1,30 @@
+domain_keyword_set:
+- alipay
+- taobao
+- baidu
+- alicdn
+- aliyun
+- .tmall.
+domain_suffix_set:
+- sentry.io
+- clashroyaleapp.com
+- supercell.com
+- byd.auto
+- open.cd
+- mxrouting.net
+- digicert.com
+- fengkongcloud.com
+- xhscdn.com
+- xhscdn.net
+- xiaohongshu.com
+- CN
+geoip_set:
+- CN
+ip_cidr_set:
+- 198.11.188.0/25
+- 198.11.136.0/24
+user_agent_set:
+- MicroMessenger Client
+- WeChat*
+- MApi*
+- '%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*'

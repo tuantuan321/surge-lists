@@ -1,0 +1,51 @@
+domain_keyword_set:
+- google
+- gmail
+- youtube
+- facebook
+- twitter
+- instagram
+- dropbox
+- blogspot
+- whatsapp
+- sci-hub
+- spotify
+- 1password
+domain_suffix_set:
+- nodeseek.com
+- hostloc.com
+- proton.me
+- v2ex.com
+- gstatic.com
+- ampproject.org
+- fb.me
+- fbcdn.net
+- twimg.com
+- youtu.be
+- oculuscdn.com
+- oculus.com
+- letsencrypt.org
+- android.com
+- ytimg.com
+- githubusercontent.com
+- telegram.org
+ip_cidr_set:
+- 91.105.192.0/23
+- 91.108.4.0/22
+- 91.108.8.0/22
+- 91.108.16.0/22
+- 91.108.20.0/22
+- 91.108.56.0/22
+- 95.161.64.0/20
+- 149.154.160.0/20
+- 185.76.151.0/24
+ip_cidr6_set:
+- 2001:b28:f23d::/48
+- 2001:b28:f23f::/48
+- 2001:67c:4e8::/48
+- 2001:b28:f23c::/48
+- 2a0a:f280::/32
+user_agent_set:
+- PayPal*
+- WhatsApp*
+- com.apple.trustd*
