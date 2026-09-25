@@ -9,6 +9,9 @@ domain_set:
 - mesu.apple.com
 - api.smoot.apple.cn
 - gs-loc.apple.com
+- aod.itunes.apple.com
+- mvod.itunes.apple.com
+- streamingaudio.itunes.apple.com
 domain_suffix_set:
 - cdn-apple.com
 - mzstatic.com
